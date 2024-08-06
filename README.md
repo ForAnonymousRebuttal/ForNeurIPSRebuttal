@@ -3,7 +3,7 @@
 ### How to understand the fundamental improvement achieved by SERSAL
 
 <p align="center">
-  <img src="img/mechanism.png" alt="sym" width="500">
+  <img src="img/mechanism.png" alt="sym" width="1000">
     <figcaption style="text-align: center;">In-depth view of SERSAL mechanism.</figcaption>
 </p>
 
@@ -14,7 +14,7 @@ Here we provide detailed illustration of SERSAL pipeline, essentially SERSAL is 
 ### Comparison with other LLM in-context learning studies on tabular prediction
 
 <p align="center">
-  <img src="img/comparison.png" alt="sym" width="500">
+  <img src="img/comparison.png" alt="sym" width="1000">
     <figcaption style="text-align: center;">Framework comparison.</figcaption>
 </p>
 
